@@ -1,6 +1,6 @@
 #### Hi. my name is **SINA** 
 #### My personal weblog is [sinasoheili.net](https://www.sinasoheili.net) :slightly_smiling_face:
-#### You can find some of my open-source project here.You can contribute in all my project :seedling:
+#### You can find some of my open-source project here.You can contribute to all my project :seedling:
 #### Have fun my friend :beers:
 
 
