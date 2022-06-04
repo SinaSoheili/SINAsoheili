@@ -1,5 +1,4 @@
-#### Hi. my name is **SINA** 
-#### My personal weblog is [sinasoheili.net](https://www.sinasoheili.net) :slightly_smiling_face:
+#### Hi. my name is **Sina** 
 #### You can find some of my open-source projects here also you can contribute to all my projects :seedling:
 #### Have fun my friend :beers:
 
