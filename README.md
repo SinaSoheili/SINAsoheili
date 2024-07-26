@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm currently working as Java back-end developer.<br/>
-Also I'm learning syber securiy.<br/>
+Also I'm learning cyber securiy.<br/>
 You can find some of my open-source projects here and feel free to contribute and send pull requests :seedling:<br/>
 Have fun my friend :beers:
 
