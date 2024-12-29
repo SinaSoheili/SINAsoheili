@@ -1,6 +1,6 @@
 ### Hi there 👋
 I’m currently working as a Java backend developer and learning about cybersecurity. <br/>
-You can explore my open-source projects here, and I’d love for you to contribute or send pull requests.:seedling:<br/>
+You can explore my open-source projects here, and I’d love for you to contribute or send pull requests. :seedling: <br/>
 Enjoy exploring! :beers:
 
 
